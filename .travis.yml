@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: jmZyA7XOTxtQ4FYyUFjvklPloQUw5wvFWOk29hF4qL5Sh3dGhwrHn0iOqgICOwNQTmULG/kLMUPORpFEbgp8UG3w9wAwRi8IcttoDO92wMoIm7KNDNRQp+9iJWB3J3IvnWBglR5QSvw8vAtVFqGtsXtCrAYvQAHrVFneXA1I3BQw16Gnf1t4z1tp5JtLiELVg6A7ZAaYxIAfSke7Ah7EfQm46NcTQeqkfl6tzNmwkt2i3ceXUoXmcDNdI72+qQdVWnbMIbKjNIuXvzySxMrXLWF5GfX+aK8YKpXf3qKp5KonI+Lpud/vLXVwr5pmZo0ex5ADI3P/x9GSLXxTExlSE3apPyE+jL67JERDlXLQLwH817TkHoBg0XYme7o2odg7YVWlveEupewYY+U8ZFpalvy3ibHUr/sBKaqKCh7XRzLgWDk1ZhoGc1z1GkFcHvaHTHoMABHwaBrxWf9zoGb60rR+c/bnPOJ/bs2Mu7kJvtuHBlEXNP+TUibfqSV3UozMJgn0a4vnDFtqUA7yVopmrle0vzbtaAkMlgPlPwo7CLpLNDiyewDtRnyP0VVrRyBG7obw0rj3MnYWDdx8q91yooAp5vLrTxB23DzvX9zH7bk2OaD6yIjErPgQ9k/YD5ZZDUbr72gaMoK/fTWy5yOZE687862OCzEA+Hg7kkfJJyM=
-  app: https://rocky-brook-11383.herokuapp.com/
+  app: rocky-brook-11383
   on:
     repo: jayshol/blog-app-mongoose-challenge-solution
